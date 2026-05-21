@@ -1,0 +1,11 @@
+encoder,category,wins,losses,net
+AMSTE,Proposed,9,0,9
+ST-MW,Proposed,6,1,5
+SFBE,Proposed,6,1,5
+ATDE,Proposed,5,1,4
+PDE,Proposed,4,3,1
+MASTE,Proposed,4,4,0
+Rate,Baseline,2,7,-5
+Delta-Mod,Proposed,1,6,-5
+Phase,Baseline,0,7,-7
+TTFS,Baseline,0,7,-7

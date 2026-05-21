@@ -1,0 +1,25 @@
+# Raw and generated data -- do NOT commit (too large; raw data is on GDR)
+raw_data/
+encoded/
+encoded_ablation/
+results/checkpoints/
+results/tensorboard/
+*.npy
+*.segy
+*.sgy
+
+# Keep these committed (small, essential for reproducibility):
+!data/labels.csv
+!results/cv_results.csv
+!results/test_results.csv
+!results/ablation_results.csv
+!results/parameter_sweep_full.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

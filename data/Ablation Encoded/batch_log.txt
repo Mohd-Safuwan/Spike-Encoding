@@ -1,0 +1,11 @@
+
+============================================================
+Started: 2026-05-11 19:05:16
+Files: 2000 | Resume: False
+Variants: Basic, No_MAD, No_Polarity, No_MultiScale, No_Spatial, Full_AMSTE
+AMSTE: alpha=3.0 lags=[1, 3, 8] min_votes=2 ws=16 thr_s=0.5
+============================================================
+
+
+Completed: 2026-05-11 19:23:38
+Done=2000 Skip=0 Err=0 Time=1102s

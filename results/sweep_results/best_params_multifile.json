@@ -1,0 +1,43 @@
+{
+  "Rate": {
+    "thr": 0.85
+  },
+  "Phase": {
+    "thr": 0.85
+  },
+  "Adaptive": {
+    "thr": 0.85
+  },
+  "Delta-Mod": {
+    "thr": 0.85,
+    "step_size": 0.08
+  },
+  "PDE": {
+    "kappa_phi": 1.0,
+    "amp_kappa": 2.0
+  },
+  "ATDE": {
+    "alpha": 2.5,
+    "tau_ms": 35.0
+  },
+  "MASTE": {
+    "lags": [
+      1,
+      3,
+      8
+    ],
+    "alpha": 2.5
+  },
+  "SCS-DeltaMod": {
+    "thr": 0.85,
+    "step_size": 0.2
+  },
+  "SCS-Adaptive": {
+    "thr": 0.85
+  },
+  "SCS-ATDE": {
+    "alpha": 3.5,
+    "tau_ms": 50.0,
+    "thr": 0.8
+  }
+}

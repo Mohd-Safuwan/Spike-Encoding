@@ -1,0 +1,15 @@
+# Environment for the AMSTE DAS microseismic SNN benchmark
+# Tested: Python 3.10, NVIDIA Jetson AGX Orin, Ubuntu 22.04 LTS
+#
+# PyTorch: install the build matching your platform/CUDA from
+# https://pytorch.org/get-started/locally/  (the paper used 2.2.0).
+
+torch==2.2.0
+snntorch==0.9.4
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+scikit-learn==1.4.2
+segyio==1.9.12
+matplotlib==3.8.4
+jupyter==1.0.0

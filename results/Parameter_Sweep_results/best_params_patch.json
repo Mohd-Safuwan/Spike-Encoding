@@ -1,0 +1,42 @@
+{
+  "Rate": {
+    "thr": 0.85
+  },
+  "Phase": {
+    "thr": 0.85
+  },
+  "PDE": {
+    "kappa_phi": 0.5,
+    "amp_kappa": 3.0
+  },
+  "ATDE": {
+    "alpha": 3.0,
+    "tau_ms": 165.0
+  },
+  "MASTE": {
+    "lags": [
+      1,
+      3,
+      8
+    ],
+    "alpha": 2.5
+  },
+  "TTFS": {
+    "thr": 0.85
+  },
+  "Delta-Mod": {
+    "thr": 0.6,
+    "step_size": 0.2
+  },
+  "ST-MW": {
+    "thr_t": 0.14,
+    "thr_s": 0.6,
+    "wt_ms": 1.0,
+    "ws": 16
+  },
+  "CSS": null,
+  "SFBE": {
+    "ratio_thr": 5.0,
+    "sta_ms": 1.0
+  }
+}

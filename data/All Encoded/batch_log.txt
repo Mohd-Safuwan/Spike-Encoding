@@ -1,0 +1,10 @@
+
+============================================================
+Started: 2026-04-28 11:34:30
+Files: 2000 | Resume: False
+Encoders: Rate, Phase, TTFS, Delta-Mod, PDE, ATDE, MASTE, ST-MW, AMSTE, SFBE
+============================================================
+
+
+Completed: 2026-04-28 23:43:01
+Done=2000 Skip=0 Err=0 Time=43711s
